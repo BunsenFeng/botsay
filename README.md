@@ -128,6 +128,8 @@ The `Zero-Shot Rewriting` approach in Section 2.2.
 usage: risk-descrewrite_zeroshot.py [-h] [-m MODEL] [-d DATASET]
 ```
 
+The `Risk` approaches will produce a diretocy in `data/` as the LLM-manipulated bot detection dataset.
+
 #### Risk: `risk-descrewrite_fewshot.py`
 
 The `Few-Shot Rewriting` approach in Section 2.2.
