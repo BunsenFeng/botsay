@@ -12,7 +12,7 @@ export OPENAI_API_KEY="YOUR_KEY"
 python model_init.py
 ```
 
-If you previously applied for [TwiBot-20](https://arxiv.org/abs/2106.13088) access, download [data.zip](https://drive.google.com/file/d/1jaGX5pV7xFOlNDE_hfg33LNEHqOqOb90/view?usp=sharing). If you haven't visit [TwiBot-20](https://github.com/BunsenFeng/TwiBot-20) and [TwiBot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) repos.
+If you previously applied for [TwiBot-20](https://arxiv.org/abs/2106.13088) access, download [data.zip](https://drive.google.com/file/d/1jaGX5pV7xFOlNDE_hfg33LNEHqOqOb90/view?usp=sharing). If you haven't visit [TwiBot-20](https://github.com/BunsenFeng/TwiBot-20) and [TwiBot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) repos. Uncompress `data.zip` then.
 
 ### Methods
 
