@@ -16,7 +16,7 @@ If you previously applied for [TwiBot-20](https://arxiv.org/abs/2106.13088) acce
 
 ### Methods
 
-We provide the implementation of opportunities and risks approaches in the paper. Each `approach-<name>` file contains the opportunity approach of detecting bots, while `risk-<name>` file contains the risk approach of manipulating bots. Shared parameters for each approach:
+We provide the implementation of opportunities and risks approaches in the paper. Each `approach-<name>.py` file contains the opportunity approach of detecting bots, while `risk-<name>.py` file contains the risk approach of manipulating bots. Shared parameters for each approach:
 
 ```
 -m MODEL, --model MODEL
