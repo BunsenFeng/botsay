@@ -243,11 +243,24 @@ options:
 ### Citation
 
 ```
-@article{feng2024does,
-  title={What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection},
-  author={Feng, Shangbin and Wan, Herun and Wang, Ningnan and Tan, Zhaoxuan and Luo, Minnan and Tsvetkov, Yulia},
-  journal={arXiv preprint arXiv:2402.00371},
-  year={2024}
+@inproceedings{feng-etal-2024-bot,
+    title = "What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection",
+    author = "Feng, Shangbin  and
+      Wan, Herun  and
+      Wang, Ningnan  and
+      Tan, Zhaoxuan  and
+      Luo, Minnan  and
+      Tsvetkov, Yulia",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.196",
+    pages = "3580--3601",
+    abstract = "Social media bot detection has always been an arms race between advancements in machine learning bot detectors and adversarial bot strategies to evade detection. In this work, we bring the arms race to the next level by investigating the opportunities and risks of state-of-the-art large language models (LLMs) in social bot detection. To investigate the opportunities, we design novel LLM-based bot detectors by proposing a mixture-of-heterogeneous-experts framework to divide and conquer diverse user information modalities. To illuminate the risks, we explore the possibility of LLM-guided manipulation of user textual and structured information to evade detection. Extensive experiments with three LLMs on two datasets demonstrate that instruction tuning on merely 1,000 annotated examples produces specialized LLMs that outperform state-of-the-art baselines by up to 9.1{\%} on both datasets, while LLM-guided manipulation strategies could significantly bring down the performance of existing bot detectors by up to 29.6{\%} and harm the calibration and reliability of bot detection systems.",
 }
 ```
-ACL bibtex coming soon.
